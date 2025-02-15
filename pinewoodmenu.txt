@@ -1,0 +1,6 @@
+Burger 60.00 2
+Pizza 70.00 0
+Lassi 40.00 0
+Parata 10.00 1
+Dal 15.00 1
+Tea 10.00 1

@@ -1,0 +1,6 @@
+Coffee 20.00 0
+Milkshake 80.00 0
+Teheri 100.00 0
+Biriyani 120.00 1
+Shawrma 100.00 0
+Steak 300.00 1

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1739628039 source:c:\users\dell\onedrive\nsu\project cse115\group 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
